@@ -25,3 +25,5 @@ Java
 Spring Boot
 Python
 Bash
+
+🏆 GitHub Trophies
