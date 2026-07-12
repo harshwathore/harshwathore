@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Harsh 👋</h1>
 <h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast | CI/CD | IaC</h3>
 
 <p align="center">
@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="www.linkedin.com/in/iamharshwathore">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="harsh.wathore77@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourhandle">
@@ -103,7 +103,7 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="www.linkedin.com/in/iamharshwathore">
     <img src="https://img.shields.io/badge/-Connect_with_me-2EC4B6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
