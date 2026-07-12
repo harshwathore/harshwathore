@@ -6,14 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/iamharshwathore">
+  <a href="https://www.linkedin.com/in/iamharshwathore">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="harsh.wathore77@gmail.com">
+  <a href="mailto:harsh.wathore77@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -69,19 +66,19 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/your-username/repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=tokyonight" />
+  <a href="https://github.com/harshwathore/repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshwathore&repo=repo-1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/your-username/repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=tokyonight" />
+  <a href="https://github.com/harshwathore/repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshwathore&repo=repo-2&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/your-username/repo-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-3&theme=tokyonight" />
+  <a href="https://github.com/harshwathore/repo-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshwathore&repo=repo-3&theme=tokyonight" />
   </a>
-  <a href="https://github.com/your-username/repo-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-4&theme=tokyonight" />
+  <a href="https://github.com/harshwathore/repo-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshwathore&repo=repo-4&theme=tokyonight" />
   </a>
 </p>
 
@@ -90,12 +87,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshwathore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshwathore&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshwathore&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -103,8 +100,11 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/iamharshwathore">
+  <a href="https://www.linkedin.com/in/iamharshwathore">
     <img src="https://img.shields.io/badge/-Connect_with_me-2EC4B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harsh.wathore77@gmail.com">
+    <img src="https://img.shields.io/badge/-Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
